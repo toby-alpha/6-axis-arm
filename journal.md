@@ -133,6 +133,6 @@ For the planet carrier I integrated it into the output ring, with 2 5x11x5 beari
 
 I'm overall pretty happy with how the actuator has turned out so far, I'm going to work further on the mounting pattern once more of the project becomes defined, and modify it to the needs.
 
-![image](https://i.ibb.co/LdVsGqMk/image.png)
+![image](![image](https://github.com/user-attachments/assets/338992e1-23c8-4b2c-8056-32ec13ef9151))
 
 ### Time Spent: 4 Hours 24/05/25
